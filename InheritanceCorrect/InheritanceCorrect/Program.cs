@@ -39,7 +39,7 @@ namespace InheritanceCorrect
             //To store Flamingo, Pelican and Swan a list must store the type Bird
             //To store any of our custom classes a list must store the type Animal
             //If an attribute is for all Birds it will be put in the bird class
-            //Id an attribute is for all Animals it will be put in the Animal class
+            //If an attribute is for all Animals it will be put in the Animal class
             #endregion 
         }
     }
